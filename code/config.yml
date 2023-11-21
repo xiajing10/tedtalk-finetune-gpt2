@@ -1,0 +1,13 @@
+#If  in Goole Drive
+model_name_or_path: './finetuned_models/ted_talk'
+output_dir: './code/'
+prompt: './code/prompt.txt'
+
+# If in local computer, change the path below to your path
+# model_name_or_path: '/mnt/c/Users/lenovo/OneDrive - yourspeechfactory.com/code/ted_talk'
+# output_dir: '/mnt/c/Users/lenovo/OneDrive - yourspeechfactory.com/code/ted_talk'
+# prompt: './prompt.txt'
+
+include_prompt: False
+user_input: 
+
