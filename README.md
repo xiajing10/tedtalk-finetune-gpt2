@@ -14,3 +14,12 @@ Raw data is from [Kaggle](https://www.kaggle.com/datasets/rounakbanik/ted-talks/
 transformers
 pytorch
 
+# Notebooks
+## Fintuning code
+[Google Colab: transformer-gpt2-finetuning](https://colab.research.google.com/drive/1z70k27dBYTkNDaSZKuKRYAVfJUQ1S5Ex?usp=sharing)
+It is highly recommended to run on GPU.
+
+## Generation code
+[Google Colab: transformer-gpt2-finetuning](https://colab.research.google.com/drive/1oDGbnPVwanWK5ssXwRwehBA2f9t4K9gN?usp=sharing)
+Generation part can work withou GPU, but longer processing time shall be expected.
+
